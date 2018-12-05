@@ -22,7 +22,7 @@ To finish my project, I collected this Markers Objects in an Array and took him 
 
 ## Getting Started
 To test this App in your machine, just follow the steps below:
-- Clone this repo in your local ```git clone https://github.com/elfiservice/neighborhood-map-react```
+- Clone this repo in your local ```git cloneei https://github.com/strongSoda/neighbourhood-react-map-resubmit.git```
 - Now into your folder project in the terminal exec ```npm install``` to install all dependencies
 - After install all dependencies just execute ```npm start``` on the terminal to launching the App in the browser.
 ### Offline First
